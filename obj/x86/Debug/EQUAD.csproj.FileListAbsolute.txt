@@ -1,0 +1,9 @@
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\bin\Debug\EQUAD.exe
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\bin\Debug\EQUAD.pdb
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.Properties.Resources.resources
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.csproj.GenerateResource.Cache
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.exe
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.pdb
+c:\users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.Form1.resources
+C:\Users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.csprojResolveAssemblyReference.cache
+C:\Users\hilcomputer\documents\visual studio 2010\Projects\EQUAD\EQUAD\obj\x86\Debug\EQUAD.FormHelp.resources
